@@ -1,0 +1,42 @@
+var imgs = '{ \
+  "askold": [ \
+    {"title":"askold/01.png","top":"300px", "left":"610px"}, \
+    {"title":"askold/02.png","top":"290px", "left":"630px"}, \
+    {"title":"askold/03.png","top":"320px", "left":"680px"}, \
+    {"title":"askold/04.png","top":"226px", "left":"700px"}, \
+    {"title":"askold/05.png","top":"280px", "left":"630px"}, \
+    {"title":"askold/06.png","top":"290px", "left":"650px"}, \
+    {"title":"askold/07.png","top":"300px", "left":"700px"}, \
+    {"title":"askold/08.png","top":"305px", "left":"689px"}, \
+    {"title":"askold/09.png","top":"280px", "left":"705px"}, \
+    {"title":"askold/10.png","top":"270px", "left":"710px"} \
+  ],\
+  "armalit": [ \
+    {"title":"armalit/01.png","top":"200px", "left":"70px"}, \
+    {"title":"armalit/02.png","top":"170px", "left":"20px"}, \
+    {"title":"armalit/03.png","top":"185px", "left":"30px"}, \
+    {"title":"armalit/04.png","top":"200px", "left":"40px"}, \
+    {"title":"armalit/05.png","top":"210px", "left":"80px"}, \
+    {"title":"armalit/06.png","top":"218px", "left":"20px"}, \
+    {"title":"armalit/07.png","top":"230px", "left":"40px"}, \
+    {"title":"armalit/08.png","top":"180px", "left":"60px"}, \
+    {"title":"armalit/09.png","top":"200px", "left":"40px"} \
+  ],\
+  "burevestnik": [ \
+    {"title":"burevestnik/01.png","top":"143px", "left":"130px"}, \
+    {"title":"burevestnik/02.png","top":"140px", "left":"180px"}, \
+    {"title":"burevestnik/03.png","top":"150px", "left":"170px"}, \
+    {"title":"burevestnik/04.png","top":"100px", "left":"200px"}, \
+    {"title":"burevestnik/05.png","top":"160px", "left":"160px"}, \
+    {"title":"burevestnik/06.png","top":"140px", "left":"170px"} \
+  ],\
+   "skbk": [ \
+    {"title":"skbk/01.png","top":"210px", "left":"80px"}, \
+    {"title":"skbk/02.png","top":"180px", "left":"30px"}, \
+    {"title":"skbk/03.png","top":"205px", "left":"60px"}, \
+    {"title":"skbk/04.png","top":"238px", "left":"20px"}, \
+    {"title":"skbk/05.png","top":"226px", "left":"70px"}, \
+    {"title":"skbk/06.png","top":"210px", "left":"40px"} \
+  ]\
+}';
+

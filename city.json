@@ -1,0 +1,11 @@
+var cities = '{ \
+  "places": [ \
+    {"title":"Москва","top":"302px", "left":"130px"}, \
+    {"title":"Мурманск","top":"193px", "left":"201px"}, \
+    {"title":"Арсеньев","top":"432px", "left":"738px"}, \
+    {"title":"Гатчина","top":"232px", "left":"102px"}, \
+    {"title":"Санкт-Петербург","top":"226px", "left":"109px"} \
+  ]\
+}';
+
+
